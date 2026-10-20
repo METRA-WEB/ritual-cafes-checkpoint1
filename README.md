@@ -83,14 +83,7 @@ En la ejecución manual se completó el recorrido **Airtable → Chat → Gmail*
 
 El correo incluye el identificador de ejecución, el nombre de las herramientas utilizadas y sus resultados observables. La prueba acredita ese recorrido; no demuestra exhaustividad del catálogo.
 
-## Cómo usar el flujo
 
-1. Importá `checkpoint1_mariano_fernandez.json` en n8n mediante **Import from File**.
-2. Configurá tus propias credenciales de DeepSeek, Airtable y Gmail.
-3. Revisá la base, la tabla y los campos utilizados por la herramienta de Airtable.
-4. Configurá tu dirección de destino en Gmail: el export conserva un destinatario fijo.
-5. Abrí el chat del workflow y enviá una consulta sobre el catálogo.
-6. Comprobá la respuesta, la invocación de Airtable cuando corresponda y la recepción del correo.
 
 ## Autoría
 
